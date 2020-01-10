@@ -1,0 +1,23 @@
+{
+  "name": "river",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sad-hu/river.git"
+  },
+  "keywords": [],
+  "author": "sadhu <sad.hu@outlook.com>",
+  "contributors": [
+    "sadhu <sad.hu@outlook.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sad-hu/river/issues"
+  },
+  "homepage": "https://github.com/sad-hu/river#readme"
+}
